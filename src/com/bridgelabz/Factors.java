@@ -2,7 +2,7 @@ package com.bridgelabz;
 
 import java.util.Scanner;
 
-public class factors {
+public class Factors {
 
         /**
          * Ask User To Enter a Number

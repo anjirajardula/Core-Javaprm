@@ -3,7 +3,7 @@ package com.bridgelabz;
 
 import java.util.Scanner;
 
-public class swap2num {
+public class SwapTonum {
     /**
      * Ask User To Enter The Two Numbers
      * And Swap The Two Numbers

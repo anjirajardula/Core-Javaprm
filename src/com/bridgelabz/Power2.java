@@ -2,7 +2,7 @@ package com.bridgelabz;
 
 import java.util.Scanner;
 
-public class power2 {
+public class Power2 {
     /**
      * Asking user to enter the power value
      * using forloop condition

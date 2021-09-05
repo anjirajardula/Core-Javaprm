@@ -2,7 +2,7 @@ package com.bridgelabz;
 
 import java.util.Scanner;
 
-public class evenodd {
+public class EvenOdd {
     /**
      * Ask User To Enter a Number
      * And Check That Number Is Even Or Odd

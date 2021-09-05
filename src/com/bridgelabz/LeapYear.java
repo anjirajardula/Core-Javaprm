@@ -2,7 +2,7 @@ package com.bridgelabz;
 
 import java.util.Scanner;
 
-public class leapYear {
+public class LeapYear {
     /**
      * Asking user to enter the valid Year
      * Condition, year should be 4 digits

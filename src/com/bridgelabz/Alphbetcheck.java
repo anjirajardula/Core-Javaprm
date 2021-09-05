@@ -2,7 +2,7 @@ package com.bridgelabz;
 
 import java.util.Scanner;
 
-public class alphbetcheck {
+public class Alphbetcheck {
     /**
      * Ask User To Enter a Alphabet
      * And Check It Is a Vowel Or Consonant

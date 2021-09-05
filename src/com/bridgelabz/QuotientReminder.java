@@ -2,7 +2,7 @@ package com.bridgelabz;
 
 import java.util.Scanner;
 
-public class quotientReminder {
+public class QuotientReminder {
     /**
      * Ask User To Enter Two Numbers
      * And Print The quotient And Remainder Of Two Numbers

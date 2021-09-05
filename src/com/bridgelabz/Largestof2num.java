@@ -2,7 +2,7 @@ package com.bridgelabz;
 
 import java.util.Scanner;
 
-public class largestof2num {
+public class Largestof2num {
     /**
      * Asking user to enter the three numbers
      * Using if-else to find the larger one

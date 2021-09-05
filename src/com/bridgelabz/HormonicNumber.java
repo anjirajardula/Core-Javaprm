@@ -2,7 +2,7 @@ package com.bridgelabz;
 
 import java.util.Scanner;
 
-public class hormonicNumber {
+public class HormonicNumber {
     /**
      * Ask User To Enter a Number
      * And Print The Harmonic Series
