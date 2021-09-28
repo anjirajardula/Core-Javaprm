@@ -2,6 +2,12 @@ package com.bridgelabz;
 
 import java.util.Scanner;
 
+/**
+ * @author :Anji Raj Ardula
+ * @version :16.0
+ * @since : 28/09/2021
+ */
+
 public class Largestof2num {
     /**
      * Asking user to enter the three numbers
